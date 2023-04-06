@@ -5,3 +5,8 @@
 192.168.38.5 anthony5.com.tw
 192.168.38.6 anthony6.com.tw
 192.168.38.7 anthony7.com.tw
+<<<<<<< HEAD
+192.168.38.8 anthony88.com.tw
+=======
+192.168.38.8 anthony8.com.tw
+>>>>>>> a6a3c85c4beb82013e9beffddb4b9942e98509d9
